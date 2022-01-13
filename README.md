@@ -15,7 +15,7 @@ Dev Log
 	TODO: Crew Movement
 		- Pathing
 		- Scheduler
-	TODO: AI (user) interactable
+	TODO: AI (user) interactables
 	TODO: UI (ohhhhhh man)
 		- Start Screen
 			- Start
@@ -23,4 +23,4 @@ Dev Log
 		- In Game UI
 		- ...
 
-Summary: Much to do but solid start. Plan to finish basic controls, crew movement, and simple scheduler by week 5
+Summary: Much to do but solid start. Plan to finish basic controls, crew movement, and simple scheduler by week 5.
