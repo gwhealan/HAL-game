@@ -24,3 +24,15 @@ Dev Log
 		- ...
 
 Summary: Much to do but solid start. Plan to finish basic controls, crew movement, and simple scheduler by week 5
+1/19/2022 - Added Proper Bounding box to camera
+	BUG: Using closestPoint means camera will zoom in if moved too far left or right
+	TODO: Crew Movement
+		- Pathing
+		- Scheduler
+	TODO: AI (user) interactable
+	TODO: UI (ohhhhhh man)
+		- Start Screen
+			- Start
+			- Settings / Controls
+		- In Game UI
+		- ...
