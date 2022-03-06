@@ -6,7 +6,7 @@ using UnityEngine.AI;
 public class CrewmateController : MonoBehaviour
 {
     public Job job;
-    public float crewID = 0f;
+    public int crewID = 0;
     public float walkSpeed = 10f;
     public float runSpeed = 20f;
     public float minIdleInterval = 1f;
